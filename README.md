@@ -48,7 +48,7 @@ A estrutura do repositório é organizada por plataforma de desafios, seguida pe
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/rfsants001/desafios-de-programacao-multilinguagens.git
+   git clone https://github.com/rfsants001/desafios-de-programacao.git
    ```
 
 2. **Adicione Sua Solução**:
@@ -69,9 +69,3 @@ Este projeto é licenciado sob a [![Licença MIT](https://img.shields.io/badge/L
 ## 💬 Contato
 
 Entre em contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafadevx/)
-
-
-```
-
-
-
